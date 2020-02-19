@@ -1,0 +1,13 @@
+F:\ML\G20UHF\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\ML\G20UHF\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Connection.resources
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.G20.resources
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MappingForm.resources
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SetRFPower.resources
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.WriteForm.resources
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\UHF G20.csproj.GenerateResource.Cache
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\UHF G20.csprojResolveAssemblyReference.cache

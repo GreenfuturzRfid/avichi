@@ -1,0 +1,63 @@
+F:\MahaProject\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Connection.resources
+F:\MahaProject\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\MahaProject\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.G20.resources
+F:\MahaProject\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\MahaProject\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\MahaProject\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\MahaProject\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\MahaProject\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\MahaProject\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\MahaProject\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\ML\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\ML\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\ML\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\ML\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\ML\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\ML\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Connection.resources
+F:\ML\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\ML\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.G20.resources
+F:\ML\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ML\G20Sep17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+I:\Barcode and rfid mapping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+I:\Barcode and rfid mapping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+I:\Barcode and rfid mapping\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+I:\Barcode and rfid mapping\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+I:\Barcode and rfid mapping\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Barcode and rfid mapping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Connection.resources
+I:\Barcode and rfid mapping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+I:\Barcode and rfid mapping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.G20.resources
+I:\Barcode and rfid mapping\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\Barcode and rfid mapping\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Barcode and rfid mapping\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ML\G20Sep17\WindowsFormsApplication1\new pack\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\ML\G20Sep17\WindowsFormsApplication1\new pack\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\ML\G20Sep17\WindowsFormsApplication1\new pack\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\ML\G20Sep17\WindowsFormsApplication1\new pack\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\ML\G20Sep17\WindowsFormsApplication1\new pack\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Connection.resources
+F:\ML\G20Sep17\WindowsFormsApplication1\new pack\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\ML\G20Sep17\WindowsFormsApplication1\new pack\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.G20.resources
+F:\ML\G20Sep17\WindowsFormsApplication1\new pack\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ML\G20Sep17\WindowsFormsApplication1\new pack\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\ML\G20Sep17\WindowsFormsApplication1\new pack\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\shankar\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\shankar\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\shankar\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\shankar\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\shankar\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Connection.resources
+D:\shankar\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\shankar\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.G20.resources
+D:\shankar\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\shankar\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\shankar\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\ML\G20UHF\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\ML\G20UHF\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Connection.resources
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.G20.resources
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MappingForm.resources
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SetRFPower.resources
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.WriteForm.resources
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\ML\G20UHF\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
